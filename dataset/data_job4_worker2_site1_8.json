@@ -1,0 +1,343 @@
+{
+    "jobNum": 4,
+    "workerNum": 2,
+    "siteNum": 1,
+    "caseNo": 8,
+    "spanPerPeriod": 24.0,
+    "workingStartTime": 9.0,
+    "workingHours": 8.0,
+    "operation": [
+        {
+            "operationIndex": 1,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                10.0,
+                14.0
+            ],
+            "curingTime": 14.0,
+            "immediateOprts": [],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 10.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 14.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 2,
+            "needWorkerNum": 2,
+            "workerTimes": [
+                13.0,
+                19.0
+            ],
+            "curingTime": 19.0,
+            "immediateOprts": [],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2
+                    ],
+                    "time": 8.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 3,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                11.0,
+                15.0
+            ],
+            "curingTime": 7.0,
+            "immediateOprts": [],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 11.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 15.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 4,
+            "needWorkerNum": 2,
+            "workerTimes": [
+                10.0,
+                13.0
+            ],
+            "curingTime": 16.0,
+            "immediateOprts": [
+                1,
+                2,
+                3
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2
+                    ],
+                    "time": 6.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 5,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                20.0,
+                16.0
+            ],
+            "curingTime": 20.0,
+            "immediateOprts": [
+                4
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 20.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 16.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 6,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                15.0,
+                12.0
+            ],
+            "curingTime": 9.0,
+            "immediateOprts": [
+                5
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 15.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 12.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 7,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                18.0,
+                15.0
+            ],
+            "curingTime": 19.0,
+            "immediateOprts": [
+                6
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 18.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 15.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 8,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                10.0,
+                13.0
+            ],
+            "curingTime": 20.0,
+            "immediateOprts": [
+                4
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 10.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 13.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 9,
+            "needWorkerNum": 2,
+            "workerTimes": [
+                19.0,
+                16.0
+            ],
+            "curingTime": 19.0,
+            "immediateOprts": [
+                4
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2
+                    ],
+                    "time": 9.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 10,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                15.0,
+                13.0
+            ],
+            "curingTime": 10.0,
+            "immediateOprts": [
+                7,
+                8,
+                9
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 15.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 13.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 11,
+            "needWorkerNum": 2,
+            "workerTimes": [
+                17.0,
+                16.0
+            ],
+            "curingTime": 9.0,
+            "immediateOprts": [
+                10
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2
+                    ],
+                    "time": 9.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 12,
+            "needWorkerNum": 2,
+            "workerTimes": [
+                13.0,
+                16.0
+            ],
+            "curingTime": 6.0,
+            "immediateOprts": [
+                11
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2
+                    ],
+                    "time": 8.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 13,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                13.0,
+                16.0
+            ],
+            "curingTime": 15.0,
+            "immediateOprts": [
+                12
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 13.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 16.0
+                }
+            ]
+        }
+    ]
+}
