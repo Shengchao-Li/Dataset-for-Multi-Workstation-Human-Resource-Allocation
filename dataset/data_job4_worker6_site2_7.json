@@ -1,0 +1,1179 @@
+{
+    "jobNum": 4,
+    "workerNum": 6,
+    "siteNum": 2,
+    "caseNo": 7,
+    "spanPerPeriod": 24.0,
+    "workingStartTime": 9.0,
+    "workingHours": 8.0,
+    "operation": [
+        {
+            "operationIndex": 1,
+            "needWorkerNum": 3,
+            "workerTimes": [
+                12.0,
+                12.0,
+                11.0,
+                11.0,
+                17.0,
+                15.0
+            ],
+            "curingTime": 9.0,
+            "immediateOprts": [],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        1,
+                        2,
+                        4
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 3,
+                    "workers": [
+                        1,
+                        3,
+                        4
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 4,
+                    "workers": [
+                        2,
+                        3,
+                        4
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 5,
+                    "workers": [
+                        1,
+                        2,
+                        5
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 6,
+                    "workers": [
+                        1,
+                        3,
+                        5
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 7,
+                    "workers": [
+                        2,
+                        3,
+                        5
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 8,
+                    "workers": [
+                        1,
+                        4,
+                        5
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 9,
+                    "workers": [
+                        2,
+                        4,
+                        5
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 10,
+                    "workers": [
+                        3,
+                        4,
+                        5
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 11,
+                    "workers": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 12,
+                    "workers": [
+                        1,
+                        3,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 13,
+                    "workers": [
+                        2,
+                        3,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 14,
+                    "workers": [
+                        1,
+                        4,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 15,
+                    "workers": [
+                        2,
+                        4,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 16,
+                    "workers": [
+                        3,
+                        4,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 17,
+                    "workers": [
+                        1,
+                        5,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 18,
+                    "workers": [
+                        2,
+                        5,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 19,
+                    "workers": [
+                        3,
+                        5,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 20,
+                    "workers": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 5.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 2,
+            "needWorkerNum": 4,
+            "workerTimes": [
+                15.0,
+                15.0,
+                18.0,
+                16.0,
+                11.0,
+                16.0
+            ],
+            "curingTime": 7.0,
+            "immediateOprts": [],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        4
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        5
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 3,
+                    "workers": [
+                        1,
+                        2,
+                        4,
+                        5
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 4,
+                    "workers": [
+                        1,
+                        3,
+                        4,
+                        5
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 5,
+                    "workers": [
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 6,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        6
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 7,
+                    "workers": [
+                        1,
+                        2,
+                        4,
+                        6
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 8,
+                    "workers": [
+                        1,
+                        3,
+                        4,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 9,
+                    "workers": [
+                        2,
+                        3,
+                        4,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 10,
+                    "workers": [
+                        1,
+                        2,
+                        5,
+                        6
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 11,
+                    "workers": [
+                        1,
+                        3,
+                        5,
+                        6
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 12,
+                    "workers": [
+                        2,
+                        3,
+                        5,
+                        6
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 13,
+                    "workers": [
+                        1,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 14,
+                    "workers": [
+                        2,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 4.0
+                },
+                {
+                    "groupIndex": 15,
+                    "workers": [
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 4.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 3,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                11.0,
+                13.0,
+                16.0,
+                13.0,
+                14.0,
+                12.0
+            ],
+            "curingTime": 5.0,
+            "immediateOprts": [],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 11.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 13.0
+                },
+                {
+                    "groupIndex": 3,
+                    "workers": [
+                        3
+                    ],
+                    "time": 16.0
+                },
+                {
+                    "groupIndex": 4,
+                    "workers": [
+                        4
+                    ],
+                    "time": 13.0
+                },
+                {
+                    "groupIndex": 5,
+                    "workers": [
+                        5
+                    ],
+                    "time": 14.0
+                },
+                {
+                    "groupIndex": 6,
+                    "workers": [
+                        6
+                    ],
+                    "time": 12.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 4,
+            "needWorkerNum": 2,
+            "workerTimes": [
+                10.0,
+                20.0,
+                12.0,
+                17.0,
+                16.0,
+                20.0
+            ],
+            "curingTime": 14.0,
+            "immediateOprts": [
+                1,
+                2,
+                3
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2
+                    ],
+                    "time": 7.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        1,
+                        3
+                    ],
+                    "time": 6.0
+                },
+                {
+                    "groupIndex": 3,
+                    "workers": [
+                        2,
+                        3
+                    ],
+                    "time": 8.0
+                },
+                {
+                    "groupIndex": 4,
+                    "workers": [
+                        1,
+                        4
+                    ],
+                    "time": 7.0
+                },
+                {
+                    "groupIndex": 5,
+                    "workers": [
+                        2,
+                        4
+                    ],
+                    "time": 10.0
+                },
+                {
+                    "groupIndex": 6,
+                    "workers": [
+                        3,
+                        4
+                    ],
+                    "time": 8.0
+                },
+                {
+                    "groupIndex": 7,
+                    "workers": [
+                        1,
+                        5
+                    ],
+                    "time": 7.0
+                },
+                {
+                    "groupIndex": 8,
+                    "workers": [
+                        2,
+                        5
+                    ],
+                    "time": 9.0
+                },
+                {
+                    "groupIndex": 9,
+                    "workers": [
+                        3,
+                        5
+                    ],
+                    "time": 7.0
+                },
+                {
+                    "groupIndex": 10,
+                    "workers": [
+                        4,
+                        5
+                    ],
+                    "time": 9.0
+                },
+                {
+                    "groupIndex": 11,
+                    "workers": [
+                        1,
+                        6
+                    ],
+                    "time": 7.0
+                },
+                {
+                    "groupIndex": 12,
+                    "workers": [
+                        2,
+                        6
+                    ],
+                    "time": 10.0
+                },
+                {
+                    "groupIndex": 13,
+                    "workers": [
+                        3,
+                        6
+                    ],
+                    "time": 8.0
+                },
+                {
+                    "groupIndex": 14,
+                    "workers": [
+                        4,
+                        6
+                    ],
+                    "time": 10.0
+                },
+                {
+                    "groupIndex": 15,
+                    "workers": [
+                        5,
+                        6
+                    ],
+                    "time": 9.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 5,
+            "needWorkerNum": 6,
+            "workerTimes": [
+                17.0,
+                14.0,
+                11.0,
+                10.0,
+                10.0,
+                15.0
+            ],
+            "curingTime": 6.0,
+            "immediateOprts": [
+                4
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 6,
+            "needWorkerNum": 6,
+            "workerTimes": [
+                19.0,
+                19.0,
+                16.0,
+                11.0,
+                15.0,
+                16.0
+            ],
+            "curingTime": 8.0,
+            "immediateOprts": [
+                5
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 7,
+            "needWorkerNum": 5,
+            "workerTimes": [
+                12.0,
+                14.0,
+                12.0,
+                19.0,
+                13.0,
+                12.0
+            ],
+            "curingTime": 20.0,
+            "immediateOprts": [
+                6
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "time": 3.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        6
+                    ],
+                    "time": 3.0
+                },
+                {
+                    "groupIndex": 3,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                },
+                {
+                    "groupIndex": 4,
+                    "workers": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                },
+                {
+                    "groupIndex": 5,
+                    "workers": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                },
+                {
+                    "groupIndex": 6,
+                    "workers": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 8,
+            "needWorkerNum": 6,
+            "workerTimes": [
+                19.0,
+                15.0,
+                19.0,
+                13.0,
+                18.0,
+                17.0
+            ],
+            "curingTime": 19.0,
+            "immediateOprts": [
+                4
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 9,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                10.0,
+                12.0,
+                18.0,
+                13.0,
+                13.0,
+                12.0
+            ],
+            "curingTime": 12.0,
+            "immediateOprts": [
+                4
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 10.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 12.0
+                },
+                {
+                    "groupIndex": 3,
+                    "workers": [
+                        3
+                    ],
+                    "time": 18.0
+                },
+                {
+                    "groupIndex": 4,
+                    "workers": [
+                        4
+                    ],
+                    "time": 13.0
+                },
+                {
+                    "groupIndex": 5,
+                    "workers": [
+                        5
+                    ],
+                    "time": 13.0
+                },
+                {
+                    "groupIndex": 6,
+                    "workers": [
+                        6
+                    ],
+                    "time": 12.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 10,
+            "needWorkerNum": 1,
+            "workerTimes": [
+                12.0,
+                19.0,
+                16.0,
+                17.0,
+                11.0,
+                16.0
+            ],
+            "curingTime": 6.0,
+            "immediateOprts": [
+                7,
+                8,
+                9
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1
+                    ],
+                    "time": 12.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        2
+                    ],
+                    "time": 19.0
+                },
+                {
+                    "groupIndex": 3,
+                    "workers": [
+                        3
+                    ],
+                    "time": 16.0
+                },
+                {
+                    "groupIndex": 4,
+                    "workers": [
+                        4
+                    ],
+                    "time": 17.0
+                },
+                {
+                    "groupIndex": 5,
+                    "workers": [
+                        5
+                    ],
+                    "time": 11.0
+                },
+                {
+                    "groupIndex": 6,
+                    "workers": [
+                        6
+                    ],
+                    "time": 16.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 11,
+            "needWorkerNum": 3,
+            "workerTimes": [
+                16.0,
+                17.0,
+                20.0,
+                11.0,
+                13.0,
+                13.0
+            ],
+            "curingTime": 6.0,
+            "immediateOprts": [
+                10
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "time": 6.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        1,
+                        2,
+                        4
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 3,
+                    "workers": [
+                        1,
+                        3,
+                        4
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 4,
+                    "workers": [
+                        2,
+                        3,
+                        4
+                    ],
+                    "time": 6.0
+                },
+                {
+                    "groupIndex": 5,
+                    "workers": [
+                        1,
+                        2,
+                        5
+                    ],
+                    "time": 6.0
+                },
+                {
+                    "groupIndex": 6,
+                    "workers": [
+                        1,
+                        3,
+                        5
+                    ],
+                    "time": 6.0
+                },
+                {
+                    "groupIndex": 7,
+                    "workers": [
+                        2,
+                        3,
+                        5
+                    ],
+                    "time": 6.0
+                },
+                {
+                    "groupIndex": 8,
+                    "workers": [
+                        1,
+                        4,
+                        5
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 9,
+                    "workers": [
+                        2,
+                        4,
+                        5
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 10,
+                    "workers": [
+                        3,
+                        4,
+                        5
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 11,
+                    "workers": [
+                        1,
+                        2,
+                        6
+                    ],
+                    "time": 6.0
+                },
+                {
+                    "groupIndex": 12,
+                    "workers": [
+                        1,
+                        3,
+                        6
+                    ],
+                    "time": 6.0
+                },
+                {
+                    "groupIndex": 13,
+                    "workers": [
+                        2,
+                        3,
+                        6
+                    ],
+                    "time": 6.0
+                },
+                {
+                    "groupIndex": 14,
+                    "workers": [
+                        1,
+                        4,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 15,
+                    "workers": [
+                        2,
+                        4,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 16,
+                    "workers": [
+                        3,
+                        4,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 17,
+                    "workers": [
+                        1,
+                        5,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 18,
+                    "workers": [
+                        2,
+                        5,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 19,
+                    "workers": [
+                        3,
+                        5,
+                        6
+                    ],
+                    "time": 5.0
+                },
+                {
+                    "groupIndex": 20,
+                    "workers": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 5.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 12,
+            "needWorkerNum": 6,
+            "workerTimes": [
+                12.0,
+                19.0,
+                13.0,
+                14.0,
+                16.0,
+                12.0
+            ],
+            "curingTime": 8.0,
+            "immediateOprts": [
+                11
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                }
+            ]
+        },
+        {
+            "operationIndex": 13,
+            "needWorkerNum": 5,
+            "workerTimes": [
+                12.0,
+                13.0,
+                14.0,
+                15.0,
+                20.0,
+                11.0
+            ],
+            "curingTime": 8.0,
+            "immediateOprts": [
+                12
+            ],
+            "workerGroups": [
+                {
+                    "groupIndex": 1,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "time": 3.0
+                },
+                {
+                    "groupIndex": 2,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        6
+                    ],
+                    "time": 3.0
+                },
+                {
+                    "groupIndex": 3,
+                    "workers": [
+                        1,
+                        2,
+                        3,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                },
+                {
+                    "groupIndex": 4,
+                    "workers": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                },
+                {
+                    "groupIndex": 5,
+                    "workers": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                },
+                {
+                    "groupIndex": 6,
+                    "workers": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "time": 3.0
+                }
+            ]
+        }
+    ]
+}
